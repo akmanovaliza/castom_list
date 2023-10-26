@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.function.Consumer;
 
 public class CustomCopyOnWriteArrayList {
-
+//check please
 	private Integer[] elementData;
 	private int modCount = 0;
 	private int size = 0;
